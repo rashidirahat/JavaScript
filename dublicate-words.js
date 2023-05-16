@@ -17,4 +17,5 @@ const findDublicateWrd = (str) => {
 };
 
 const val = findDublicateWrd(str);
-//console.log("val= ", val);
+console.log("val= ", val); // val=  big black a
+
